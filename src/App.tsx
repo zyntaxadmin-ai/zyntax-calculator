@@ -77,9 +77,9 @@ export default function App() {
     <div className="relative min-h-screen font-sans text-white">
       <Background />
 
-  <main className="relative z-10 mx-auto flex min-h-screen w-full max-w-5xl flex-col items-center justify-center gap-5 px-3 py-4 sm:px-4 sm:py-8"
-       
-        <div className="flex w-full items-stretch justify-center gap-5">
+  <main className="relative z-10 mx-auto flex min-h-screen w-full max-w-5xl flex-col items-center justify-center gap-5 px-3 py-4 sm:px-4 sm:py-8">
+
+       <div className="flex w-full items-stretch justify-center gap-5">
           {/* ---------------- Calculator card ---------------- */}
           <section
             aria-label="Calculator"
